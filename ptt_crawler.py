@@ -1,3 +1,6 @@
+# 2020.12.02  I want the ticket of Mayday so bad.
+# Author: W
+
 import requests
 from bs4 import BeautifulSoup
 import time
